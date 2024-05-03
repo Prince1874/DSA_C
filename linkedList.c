@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+// demonstration of linked list
+
 struct node{
 
     int item;
