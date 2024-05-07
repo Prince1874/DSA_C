@@ -92,7 +92,8 @@ void display()
         printf("\n\nCurrent status of Queue:\n");
         for(int i=front; i<=rear; i++)
         {
-            printf("%d ",queArr[i]);
+
+           printf("%d ",queArr[i]);
         }
         printf("\n\n");
     }
