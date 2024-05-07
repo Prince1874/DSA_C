@@ -52,7 +52,6 @@ void insert()
     if(front==-1)
     {
              front=0;
-             rear=0;
     }
     
      printf("\n\nEnter data: ");
